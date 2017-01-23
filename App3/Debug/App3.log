@@ -1,0 +1,15 @@
+﻿Build started 1/23/2017 11:54:08 AM.
+     1>Project "D:\cppprog\App3\App3\App3.vcxproj" on node 2 (Build target(s)).
+     1>MultilingualAppToolkit:
+         Multilingual App Toolkit v4.0.1795.0
+         Multilingual App Toolkit build started.
+         Multilingual App Toolkit build completed successfully. (14 ms)
+       Link:
+         App3.vcxproj -> D:\cppprog\App3\Debug\App3\App3.exe
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x64\MakePri.exe New -ProjectRoot D:\cppprog\App3\App3\ -ConfigXml Debug\priconfig.xml -OutputFile D:\cppprog\App3\Debug\App3\resources.pri -IndexName 8671701a-236d-47c9-be13-172d351da613 -Verbose -Overwrite  
+     1>Done Building Project "D:\cppprog\App3\App3\App3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.38

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>strings\en-US\Resources.resw</FileName>
+    <Checksum>31185149553415222110111541711371716111496</Checksum>
+    <ModifiedTime>2017-01-23T11:53:16.3506339</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\App3.de.xlf</FileName>
+    <Checksum>1001948417517020322742257165978089132250</Checksum>
+    <ModifiedTime>2017-01-23T11:54:03.7405498+05:30</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>strings\de\Resources.resw</FileName>
+    <Checksum>199579943191117126155249152101355056135</Checksum>
+    <ModifiedTime>2017-01-23T11:54:08.1290052+05:30</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

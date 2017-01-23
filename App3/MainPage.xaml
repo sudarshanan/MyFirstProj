@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="App3.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="btnstart" x:Uid="btnstart" Content="Run the app" HorizontalAlignment="Left" Margin="415,131,0,0" VerticalAlignment="Top" Width="213" Height="80"/>
+        <TextBlock  x:Name="lbllang" x:Uid="lbllang" Text="en-US" HorizontalAlignment="Left" Margin="405,281,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="47" Width="220" FontSize="20"/>
+
+    </Grid>
+</Page>
